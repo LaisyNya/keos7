@@ -26,7 +26,6 @@ const group = (prefix, ownerBot, botName) => {
   ├─ ❏ ${prefix}add
   ├─ ❏ ${prefix}kick
   ├─ ❏ ${prefix}listadmins
-  ├─ ❏ ${prefix}linkgroup
   ├─ ❏ ${prefix}leave
   ├─ ❏ ${prefix}welcome
   ├─ ❏ ${prefix}nsfw
