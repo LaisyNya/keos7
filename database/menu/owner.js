@@ -12,13 +12,5 @@ const owner = (prefix, ownerBot, botName) => {
   ├─ ❏ ${prefix}chatlist
   ├─ ❏ ${prefix}ping
   └─ ❏ ${prefix}bugreport
-◪ *OWNER*
-  │
-  ├─ ❏ ${prefix}setprefix
-  ├─ ❏ ${prefix}block
-  ├─ ❏ ${prefix}bc
-  ├─ ❏ ${prefix}bcgc
-  ├─ ❏ ${prefix}clone
-  └─ ❏ ${prefix}clearall`
 }
 exports.owner = owner
