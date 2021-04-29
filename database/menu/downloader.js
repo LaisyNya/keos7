@@ -12,11 +12,5 @@ const downloader = (prefix, botName, ownerName) => {
   ├─ ❏ ${prefix}chatlist
   ├─ ❏ ${prefix}ping
   └─ ❏ ${prefix}bugreport
-◪ *DOWNLOADER*
-  │
-  ├─ ❏ ${prefix}pinterest
-  ├─ ❏ ${prefix}ytmp3
-  ├─ ❏ ${prefix}ytmp4
-  └─ ❏ ${prefix}tiktok`
 }
 exports.downloader = downloader
